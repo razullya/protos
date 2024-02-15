@@ -1,4 +1,4 @@
-module protos
+module github.com/razullya/protos
 
 go 1.20
 
